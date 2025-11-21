@@ -1,4 +1,4 @@
-# 📊 CORD-19 Metadata Analysis — Streamlit App
+# 📊 COVID-19 Metadata Analysis — Streamlit App
 
 This project is part of the **Python Frameworks Assignment**.  
 It analyzes the **CORD-19 metadata dataset** and provides interactive visualizations through a **Streamlit web application**.
@@ -123,4 +123,5 @@ PLP Academy — Python Frameworks Assignment
 ✔ Fully deployed
 ✔ Fully functional
 ✔ Ready for submission
+
 
