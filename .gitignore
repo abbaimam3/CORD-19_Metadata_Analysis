@@ -1,0 +1,78 @@
+# ===========================
+# PYTHON CACHE & ARTIFACTS
+# ===========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+
+# ===========================
+# VIRTUAL ENVIRONMENTS
+# ===========================
+venv/
+env/
+.venv/
+ENV/
+
+# ===========================
+# JUPYTER NOTEBOOK FILES
+# ===========================
+.ipynb_checkpoints/
+*.ipynb_convert
+
+# ===========================
+# DATA FILES (LARGE FILES)
+# Do NOT upload datasets here.
+# ===========================
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.feather
+*.pkl
+*.zip
+*.gz
+*.tar
+*.7z
+
+# If you want to track small CSVs manually, remove "*.csv"
+
+# ===========================
+# SYSTEM FILES
+# ===========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===========================
+# LOGS & TEMP FILES
+# ===========================
+*.log
+*.tmp
+*.temp
+*.cache/
+.cache/
+
+# ===========================
+# STREAMLIT FILES
+# ===========================
+.streamlit/
+
+# ===========================
+# KAGGLE CREDENTIALS
+# ===========================
+kaggle.json
+
+# ===========================
+# Pycharm / VSCode
+# ===========================
+.idea/
+.vscode/
+*.code-workspace
